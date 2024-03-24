@@ -90,7 +90,7 @@ DropArea {
                 active: parent.hovered
             }
         }
-
+        /*
         Item { // spacer
             id: spacer
 
@@ -121,5 +121,6 @@ DropArea {
                 color: historyModel.count > index ? historyModel.get(index).color : "#00000000" // transparent as fallback
             }
         }
+        */
     }
 }
