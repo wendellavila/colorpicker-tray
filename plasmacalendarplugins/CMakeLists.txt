@@ -1,2 +1,0 @@
-add_subdirectory(astronomical)
-add_subdirectory(alternatecalendar)
