@@ -93,7 +93,7 @@
             "desktop"
         ],
         "Icon": "color-picker",
-        "Id": "org.kde.plasma.colorpicker",
+        "Id": "org.kde.plasma.colorpicker-tray",
         "License": "GPL-2.0+",
         "Name": "Color Picker",
         "Name[ar]": "منتق الألوان",
@@ -138,5 +138,7 @@
         "Name[zh_TW]": "取色工具",
         "Website": "https://userbase.kde.org/Plasma/ColorPicker"
     },
-    "X-Plasma-API-Minimum-Version": "6.0"
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "SystemServices"
 }
