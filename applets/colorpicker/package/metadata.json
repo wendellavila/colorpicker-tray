@@ -45,6 +45,10 @@
                 "Name[x-test]": "xxKai Uwe Broulikxx",
                 "Name[zh_CN]": "Kai Uwe Broulik",
                 "Name[zh_TW]": "Kai Uwe Broulik"
+            },
+            {
+                "Email": "wendelljcavila@gmail.com",
+                "Name":"Wendell Avila"
             }
         ],
         "Category": "Graphics",
@@ -93,7 +97,7 @@
             "desktop"
         ],
         "Icon": "color-picker",
-        "Id": "org.kde.plasma.colorpicker-tray",
+        "Id": "d4rkwzd.colorpicker-tray",
         "License": "GPL-2.0+",
         "Name": "Color Picker",
         "Name[ar]": "منتق الألوان",
@@ -136,7 +140,7 @@
         "Name[x-test]": "xxColor Pickerxx",
         "Name[zh_CN]": "拾色器",
         "Name[zh_TW]": "取色工具",
-        "Website": "https://userbase.kde.org/Plasma/ColorPicker"
+        "Website": "https://github.com/wendellavila/colorpicker-tray"
     },
     "X-Plasma-API-Minimum-Version": "6.0",
     "X-Plasma-NotificationArea": "true",
